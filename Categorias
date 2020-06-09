@@ -2,16 +2,75 @@
 
 <channels>
 <channel>
-<name>[COLOR white][B]NOME[/B][/COLOR]</name>
+<name>[COLOR greenyellow][B]•[/B][/COLOR]  [COLOR white][B]Todos[/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/parz-cell/PlayOtaku/master/Todos</externallink>
 <fanart></fanart>
 <info>
 
 
-[COLOR yellow][B]DESCRIÇÃO[/B][/COLOR]</info>
+[COLOR yellow][B]Lista Com Todos Animes[/B][/COLOR]</info>
 </channel>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+
+<channels>
+<channel>
+<name>[COLOR greenyellow][B]•[/B][/COLOR]  [COLOR hex][B]Shonen[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/KG8CJx9/Pics-Art-06-06-09-40-07.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/parz-cell/PlayOtaku/master/Shonen</externallink>
+<fanart>https://i.ibb.co/5smwJn9/471570.jpg</fanart>
+<info>
+
+
+[COLOR yellow][B]Shounen é um gênero de anime e mangá direcionado para o público jovem masculino entre os 12 e 18 anos de idade. Apesar disso, essa categoria abrange uma margem bem grande de faixa etária e agrada diversos públicos diferentes do seu público alvo.
+
+As histórias Shounen são facilmente reconhecidas por conterem protagonistas determinados e motivados e também pela forte presença de lutas, muita ação, comédia e enredos que contém amizade, coragem, lealdade e lutas entre o bem contra o mal.[/B][/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR greenyellow][B]•[/B][/COLOR]  [COLOR white][B]Isekai[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/23yZZd4/Pics-Art-06-06-10-43-51.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/parz-cell/PlayOtaku/master/Isekai</externallink>
+<fanart>https://i.ibb.co/vZgngdH/remili.jpg</fanart>
+<info>
+
+
+[COLOR yellow][B]Isekai, (em japonês literalmente “mundo diferente”) é um subgénero de light novels, mangás, animes e videojogos que se desenrolam à volta de uma pessoa normal que é transportada para ou aprisionada num universo paralelo.[/B][/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR greenyellow][B]•[/B][/COLOR]  [COLOR white][B]Seinen[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/PGD9gf0/Pics-Art-06-06-10-45-20.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/parz-cell/PlayOtaku/master/Seinen</externallink>
+<fanart>https://i.ibb.co/P6k1RD5/Tokyo-Ghoul.jpg</fanart>
+<info>
+
+
+[COLOR yellow][B]Animes Seinen são séries voltadas para o público masculino adulto.
+
+Significa "adulto" ou "homem adulto". Como o nome sugere, estes animes são feitos para um público mais maduro, normalmente entre os 18 e 40 anos. Os Seinens são destinados ao gênero masculino, contendo temas complexos e que não seriam apropriados para os mais jovens.
+
+Conteúdo erótico e cenas com muita violência também fazem parte das produções Seinen.
+[/B][/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+
 

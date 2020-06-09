@@ -2,7 +2,7 @@
 
 <channels>
 <channel>
-<name>[COLOR white][B]Lançamentos[/COLOR][/B]</name>
+<name>[COLOR greenyellow][B]•[/B][/COLOR]  [COLOR white][B]Lançamentos[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/C0cvHDm/Lan-a.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/parz-cell/PlayOtaku/master/Lançamentos</externallink>
 <fanart>https://i.ibb.co/FKdcCq2/gleipnir-2651021.jpg</fanart>
@@ -19,7 +19,7 @@
 
 <channels>
 <channel>
-<name>[COLOR white][B]Filmes[/B][/COLOR]</name>
+<name>[COLOR greenyellow][B]•[/B][/COLOR]  [COLOR white][B]Filmes[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/R6QXm8P/Your.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/parz-cell/PlayOtaku/master/Filmes</externallink>
 <fanart>https://i.ibb.co/sVFPMzG/koenokatach.jpg</fanart>
@@ -36,7 +36,7 @@
 
 <channels>
 <channel>
-<name>[COLOR white][B]Categorias[/COLOR][/B]</name>
+<name>[COLOR greenyellow][B]•[/B][/COLOR]  [COLOR white][B]Categorias[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/1Lz0VsY/Cate.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/parz-cell/PlayOtaku/master/Categorias</externallink>
 <fanart>https://i.ibb.co/5smwJn9/471570.jpg</fanart>
