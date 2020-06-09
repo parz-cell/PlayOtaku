@@ -9,7 +9,7 @@
 <info>
 
 
-[COLOR orangered][B]Só Otaku Com Bom Gosto e Bem Vindo.[/COLOR][/B]</info>
+[B][COLOR orangered]Otaku Com Bom Gosto e Bem Vindo.[/COLOR][/B]</info>
 </channel>
 </channels>
 
@@ -17,14 +17,14 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow][B]Seus Animes Aqui!!![/COLOR][/B]</name>
+<name>[B][COLOR yellow]Seus Animes Aqui!!![/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/kJV2sJ0/Aqui.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/parz-cell/PlayOtaku/master/Aqui</externallink>
 <fanart>https://i.ibb.co/PNYtq6v/fanart2.jpg</fanart>
 <info>
 
 
-[COLOR orangered][B]O Melhores Animes Aqui!!![/COLOR][/B]</info>
+[B][COLOR orangered]O Melhores Animes Aqui!!![/COLOR][/B]</info>
 </channel>
 </channels>
 
